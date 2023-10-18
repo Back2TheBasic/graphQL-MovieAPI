@@ -8,8 +8,8 @@
 [상봉's 레포지토리 바로가기](https://github.com/In-Self-Improvement/graphQL-movieAPI)     
 
 ## 🍀 목표
-GraphQL을 활용한 영화 정보 API 구축
-클라이언트와 서버 간의 효율적인 데이터 통신 구현
+- GraphQL을 활용한 영화 정보 API 구축
+- 클라이언트와 서버 간의 효율적인 데이터 통신 구현
 
 
 ## ❗️ Key Point
@@ -37,5 +37,5 @@ npm run dev
 - GraphQL이 restAPI의 단점을 보완하기 위해서 나왔지만, 스키마를 프론트 / 백엔드 모두 써야한다는 부분을 보완 해야 한다는 것을 알게됨. 
 
 ## 🕵🏻‍♂️ 참고
-[GraphQL 공식 문서](https://graphql.org/)
-[강의 영상](https://nomadcoders.co/graphql-for-beginners)
+- [GraphQL 공식 문서](https://graphql.org/)
+- [강의 영상](https://nomadcoders.co/graphql-for-beginners)
