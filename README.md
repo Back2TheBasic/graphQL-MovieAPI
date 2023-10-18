@@ -20,7 +20,12 @@
 ## 💻 실행방법
 ```
 npm install
-npm run dev
+
+//server 실행
+node server.js
+
+//localhost 주소로 이동
+http://localhost:4000/
 ```
 
 ## 📝 주요기능
