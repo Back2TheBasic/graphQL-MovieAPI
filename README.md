@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
-[소윤's 레포지토리 바로가기](https://github.com/soyoonJ/graphQL)
-[상봉's 레포지토리 바로가기](https://github.com/In-Self-Improvement/graphQL-movieAPI)     
+- [소윤's 레포지토리 바로가기](https://github.com/soyoonJ/graphQL)
+- [상봉's 레포지토리 바로가기](https://github.com/In-Self-Improvement/graphQL-movieAPI)     
 
 ## 🍀 목표
 - GraphQL을 활용한 영화 정보 API 구축
